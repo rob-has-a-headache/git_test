@@ -1,1 +1,2 @@
 Hi, this is my first file i am pushing to git hub
+quick edit to test this git commit auto message flag thing
